@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+}
+
+span, h2,h3 {
+    display: inline;
+    margin-top: 20px;
+}
+
+header {
+    margin-top: 10px;
+}
+
+p, ul, ol{
+    font-size: 1.2em;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.animal-picture {
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.plane-picture {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+.top-margin-paragraph {
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+
+.bold-paragraph {
+    font-weight: bold;
+}
+
+.numbers-of-paragraphs {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.numbers-of-main-paragraphs {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.italic-paragraph {
+    font-style: italic;
+    text-align: center;
+}
+
+.term {
+    font-weight: bold;
+}
+
+.two-one-second-paragraph {
+    font-style: italic;
+}
+
+.two-two-first-paragraph {
+    font-style: italic;
+    text-align: right;
+}
+
+ul li {
+    list-style: disc;
+    list-style-position: inside;
+}
+
+ol li {
+    list-style: decimal;
+    list-style-position: inside;
+    content: "-";
+}
+
+ol li:before {
+    content: "\2014\0020";
+}

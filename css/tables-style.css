@@ -1,0 +1,21 @@
+
+.first-table {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.second-table {
+    margin-bottom: 30px;
+}
+
+.last-two-tables-container {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.third-table {
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
+

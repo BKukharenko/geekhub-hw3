@@ -1,0 +1,60 @@
+h1,h2 {
+    margin-bottom: 10px;
+}
+
+#age {
+    width: 50px;
+}
+
+.bold-text, legend {
+    font-weight: bold;
+}
+
+#placeholder-example {
+    width: 250px;
+}
+
+#email {
+    width: 250px;
+}
+
+.choose-categories {
+    font-style: italic;
+}
+
+
+fieldset {
+    margin-bottom: 15px;
+}
+
+.wrapper {
+    width: 50%;
+    margin-left: 15px;
+}
+
+
+.info, p {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+legend {
+    margin-left: 10px;
+}
+
+.short-info-element {
+    padding-top: 10px;
+}
+
+#instruction {
+    padding-left: 0px;
+}
+
+.personal-info {
+    width: 150px;
+}
+
+.no-bottom-padding {
+    font-weight: bold;
+    padding-left: 10px;
+}
